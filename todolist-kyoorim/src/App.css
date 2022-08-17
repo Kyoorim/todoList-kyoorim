@@ -1,0 +1,23 @@
+#form {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+#title {
+  font-weight: 800;
+  font-size: 3rem;
+  color: white;
+  margin: 2rem 2rem 0.5rem 2rem;
+}
+
+#goals {
+  width: 85%;
+  max-width: 40rem;
+  margin: 2rem auto;
+  padding: 1rem;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 10px;
+  font-size: 18px;
+}
